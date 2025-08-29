@@ -40,7 +40,6 @@
 </p>
 
 <h3 align="left">Competitive Programming Profiles:</h3>
-Codeforces problems solved: 0
 <p align="left">
 <a href="https://codeforces.com/profile/esllam" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Codeforces" height="40" width="37" /></a>&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/esllam" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" alt="HackerRank" height="40" width="40" /></a>&nbsp;&nbsp;
